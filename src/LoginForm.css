@@ -1,0 +1,48 @@
+.login-page {
+  height: 100vh;
+}
+
+
+
+.login-form-panel {
+  flex: 1;
+  background-color: #fffdfb;
+  padding: 40px;
+}
+
+.login-logo {
+  width: 180px;
+}
+
+.login-box {
+  background-color: #fefefe;
+  border-radius: 16px;
+  max-width: 400px;
+  width: 100%;
+}
+
+.input-icon {
+  position: relative;
+}
+
+.input-icon i {
+  position: absolute;
+  top: 50%;
+  left: 12px;
+  transform: translateY(-50%);
+  color: #b7b7b7;
+}
+
+.custom-input {
+  padding-left: 36px;
+  background-color: #fcfbeb;
+  border: 1px solid #e1e1e1;
+  border-radius: 10px;
+}
+
+.btn-gradient {
+  background: linear-gradient(90deg, #9e72d1, #8e44ad);
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
